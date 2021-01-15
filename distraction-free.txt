@@ -12,3 +12,7 @@ www.idnes.cz##div.art:has(.premlab)
 www.idnes.cz##.group-row2colum:has(>div[id])
 www.idnes.cz##.group-expres
 www.idnes.cz##.cols-par>div>div:not([id*=art])
+
+! 2021-01-15 https://www.seznamzpravy.cz
+www.seznamzpravy.cz##[data-dot=tpl-content]>div:has([data-dot=atm-info-bubble])
+
