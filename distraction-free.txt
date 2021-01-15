@@ -1,0 +1,14 @@
+! 2021-01-15 https://www.idnes.cz
+www.idnes.cz##div[id=main] >:nth-child(2)
+www.idnes.cz###content>div.col-a:nth-child(4)
+www.idnes.cz##.content:not(#content)
+www.idnes.cz###minor
+www.idnes.cz###f-lachtan
+www.idnes.cz##.art-full>:not(:first-child)
+www.idnes.cz###topeject
+www.idnes.cz###art-text>div>div[id]:not([id=""])
+www.idnes.cz##.idneyes
+www.idnes.cz##div.art:has(.premlab)
+www.idnes.cz##.group-row2colum:has(>div[id])
+www.idnes.cz##.group-expres
+www.idnes.cz##.cols-par>div>div:not([id*=art])
