@@ -1,4 +1,6 @@
 ! 2021-01-15 https://www.idnes.cz
+www.idnes.cz###onetrust-banner-sdk
+www.idnes.cz##.col-a#space-b + .col-b
 www.idnes.cz##div[id=main]>:nth-child(2):not(:has([class="col-foto"]))
 www.idnes.cz###content>div.col-a:nth-child(4)
 www.idnes.cz##.content:not(#content)
